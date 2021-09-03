@@ -1,5 +1,4 @@
 # 210915_st_portfolio
- student portfolio
 
  (디지털컨버전스)JAVA기반 스마트웹 개발 전문가 양성 과정(21.3.15~9.15)​
 
