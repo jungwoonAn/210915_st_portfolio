@@ -20,9 +20,9 @@
 
 9. 신태영 https://totalpageeee.netlify.app/
 
-10. 백승혁 https://baek-bundle.netlify.app/
+10. 김태호 https://2109-portfolio.netlify.app/
 
-11. 김태호 https://2109-portfolio.netlify.app/
+11. 백승혁 https://baek-bundle.netlify.app/
 
 12. 이연희 https://dldusgmlvhvhf.netlify.app/
 
