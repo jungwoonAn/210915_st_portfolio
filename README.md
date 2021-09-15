@@ -6,14 +6,28 @@
 
 2. 이애림 https://leeaerim-portfolio.netlify.app/
 
-3. 주형준 https://juhyungjun-portfolio.netlify.app/
+3. 김도혜 https://dohye-portfolio.netlify.app/
 
-4. 김도혜 https://dohye-portfolio.netlify.app/
+4. 신희민 https://heemin-portfolio.netlify.app/
 
-5. 신희민 https://heemin-portfolio.netlify.app/
+5. 박진완 https://jw-portfolio.netlify.app/
 
-6. 박진완 https://jw-portfolio.netlify.app/
+6. 배민규 https://rollingpageming.netlify.app/
 
-7. 배민규 https://rollingpageming.netlify.app/
+7. 주형준 https://juhyungjun-portfolio.netlify.app/
 
 8. 임재준 https://jaejun-portfolio.netlify.app/
+
+9. 신태영 https://totalpageeee.netlify.app/
+
+10. 백승혁 https://baek-bundle.netlify.app/
+
+11. 김태호 https://2109-portfolio.netlify.app/
+
+12. 이연희 https://dldusgmlvhvhf.netlify.app/
+
+13. 이건우 https://3333qqqq.netlify.app/
+
+14. 정윤아 https://wdk010201-04.netlify.app/
+
+15. 김민영 https://kimminyeong.netlify.app/
