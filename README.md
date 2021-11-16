@@ -31,41 +31,41 @@
 14. 정윤아 https://wdk010201-04.netlify.app/
 
 15. 김민영 
-    https://car-miny.netlify.app/
-    https://beer-miny.netlify.app/
-    https://bookstore-miny.netlify.app/ - ajax
-    https://vaticanmuseum-miny.netlify.app/
-    https://ceraminminy.netlify.app/
-    https://furnitureminy.netlify.app/
+    https://car-miny.netlify.app/  
+    https://beer-miny.netlify.app/  
+    https://bookstore-miny.netlify.app/ - ajax  
+    https://vaticanmuseum-miny.netlify.app/  
+    https://ceraminminy.netlify.app/  
+    https://furnitureminy.netlify.app/  
 
 ------------------------------------------------
 
 19. 이민진
-    https://maseratilee.netlify.app/
-    https://minjinyes24.netlify.app/ - ajax
-    https://manajini.netlify.app/
+    https://maseratilee.netlify.app/  
+    https://minjinyes24.netlify.app/ - ajax  
+    https://manajini.netlify.app/  
 ​
 
 22. 이지수
-    https://yesawesomebooks.netlify.app/ - ajax
-    https://funfunaus.netlify.app/
-    https://lampforyou.netlify.app/
+    https://yesawesomebooks.netlify.app/ - ajax  
+    https://funfunaus.netlify.app/  
+    https://lampforyou.netlify.app/  
 
 ​
 28. 천성주
-    https://excelsior-caffee.netlify.app/
-    https://hyggepav.netlify.app/
-    http://osulloc.netlify.app
+    https://excelsior-caffee.netlify.app/  
+    https://hyggepav.netlify.app/  
+    http://osulloc.netlify.app  
 ​
 29. 최두영
-    https://00-portfolio-5.netlify.app
-    https://00-bookstore.netlify.app - ajax
-    https://00-portfolio-4.netlify.app/
-    https://00-portfolio-3.netlify.app
-    https://00-portfolio-2.netlify.app
-    https://00-portfolio-1.netlify.app
+    https://00-portfolio-5.netlify.app  
+    https://00-bookstore.netlify.app - ajax  
+    https://00-portfolio-4.netlify.app/  
+    https://00-portfolio-3.netlify.app  
+    https://00-portfolio-2.netlify.app  
+    https://00-portfolio-1.netlify.app  
 ​
 30. 홍하은
-    https://haeun-flex.netlify.app/
-    https://haeun3.netlify.app
-    https://haeun2.netlify.app/
+    https://haeun-flex.netlify.app/  
+    https://haeun3.netlify.app  
+    https://haeun2.netlify.app/  
