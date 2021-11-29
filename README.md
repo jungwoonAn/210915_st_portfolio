@@ -61,6 +61,6 @@
 
 ​
 28. 천성주   
->    https://excelsior-caffee.netlify.app/  
->    https://hyggepav.netlify.app/  
->    http://osulloc.netlify.app  
+    https://excelsior-caffee.netlify.app/  
+    https://hyggepav.netlify.app/  
+    http://osulloc.netlify.app  
