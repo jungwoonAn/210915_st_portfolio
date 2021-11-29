@@ -31,7 +31,6 @@
 14. 정윤아 https://wdk010201-04.netlify.app/
 
 15. 김민영
-
     https://car-miny.netlify.app/  
     https://beer-miny.netlify.app/  
     https://bookstore-miny.netlify.app/ - ajax  
@@ -50,14 +49,12 @@
 ------------------------------------------------
 
 19. 이민진
-
     https://maseratilee.netlify.app/  
     https://minjinyes24.netlify.app/ - ajax  
     https://manajini.netlify.app/  
 ​
 
 22. 이지수
-
     https://yesawesomebooks.netlify.app/ - ajax  
     https://funfunaus.netlify.app/  
     https://lampforyou.netlify.app/  
