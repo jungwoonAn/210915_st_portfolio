@@ -52,14 +52,14 @@
     https://maseratilee.netlify.app/  
     https://minjinyes24.netlify.app/ - ajax  
     https://manajini.netlify.app/  
-​
+
 
 22. 이지수  
     https://yesawesomebooks.netlify.app/ - ajax  
     https://funfunaus.netlify.app/  
     https://lampforyou.netlify.app/  
+    
 
-​
 28. 천성주  
     https://excelsior-caffee.netlify.app/  
     https://hyggepav.netlify.app/  
